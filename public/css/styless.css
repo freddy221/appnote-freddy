@@ -1,0 +1,73 @@
+.navbar{
+    margin-bottom: 0px !important;
+    border-color: #F21C1C;
+}
+.navbar-default{
+    background-color: rgba(22, 146, 218, 0.692);
+    color: green;
+    height: 65pxs;
+}
+
+.navbar-right li a{
+    color: black !important;
+    font-size:20px;
+}
+
+#pg{
+    width: 40px;
+}
+
+.text-md-left{
+    background-color: #45B39D;;
+    color: white;
+}
+.py-3{
+    background-color: dimgray;
+    color:white;
+}
+#contentBannerHome{
+    text-align: center;
+    color: white;
+    position: absolute;
+}
+#contentBannerHome h1{
+    margin-top: 30%;
+    font-size: 60px;
+}
+#contentBannerHome p{
+    font-size:px;
+}
+#divServices{
+    background-color: #E5E8E8;
+    padding-top: 50mx;
+    padding-bottom:50px;
+}
+#divServices h1{
+    text-align: center;
+}
+
+#divServices p{
+    
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.parallax {
+    background-image: url("/images/546966.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#divContent{
+    height:1000px;
+    background-color:#E5E8E8;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+#divContent{
+    font-size: 20px;
+}
